@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaxkk1
-- 👀 I’m interested in ... Scouts BSA and Computwer Science
+- 👀 I’m interested in ... Scouts BSA and Computer Science
 - 🌱 I’m currently learning ... Algorithms
 - 💞️ I’m looking to collaborate on ... Building an app
 - 📫 How to reach me ... Email: pigstep95@gmail.com 
